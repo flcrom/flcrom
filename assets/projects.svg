@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="676" viewBox="0 0 1200 676" role="img" aria-label="merged and in-review pull requests per project">
+  <rect width="1200" height="676" fill="#000"/>
+  <rect x="64" y="44" width="20" height="20" fill="#fff"/>
+  <text x="96" y="61" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#9a9a9a">merged</text>
+  <rect x="214" y="45" width="18" height="18" fill="none" stroke="#fff" stroke-width="2"/>
+  <text x="246" y="61" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#9a9a9a">in review</text>
+  <text x="64" y="131" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">PostHog</text>
+  <rect x="314" y="112" width="162.77777777777777" height="24" fill="#fff"/><rect x="480.77777777777777" y="113" width="575.2222222222222" height="22" fill="none" stroke="#fff" stroke-width="2"/>
+  <text x="1136" y="131" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">2<tspan fill="#666" font-weight="400"> / </tspan><tspan fill="#9a9a9a">7</tspan></text>
+  <text x="64" y="183" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">superset.sh</text>
+  <rect x="314" y="164" width="162.77777777777777" height="24" fill="#fff"/><rect x="480.77777777777777" y="165" width="77.88888888888889" height="22" fill="none" stroke="#fff" stroke-width="2"/>
+  <text x="1136" y="183" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">2<tspan fill="#666" font-weight="400"> / </tspan><tspan fill="#9a9a9a">1</tspan></text>
+  <text x="64" y="235" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">Reflex</text>
+  <rect x="314" y="216" width="79.88888888888889" height="24" fill="#fff"/><rect x="397.8888888888889" y="217" width="409.44444444444446" height="22" fill="none" stroke="#fff" stroke-width="2"/>
+  <text x="1136" y="235" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">1<tspan fill="#666" font-weight="400"> / </tspan><tspan fill="#9a9a9a">5</tspan></text>
+  <text x="64" y="287" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">Apache Superset</text>
+  <rect x="314" y="268" width="79.88888888888889" height="24" fill="#fff"/>
+  <text x="1136" y="287" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">1<tspan fill="#666" font-weight="400"> / </tspan><tspan fill="#9a9a9a">0</tspan></text>
+  <text x="64" y="339" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">Appwrite</text>
+  <rect x="315" y="321" width="77.88888888888889" height="22" fill="none" stroke="#fff" stroke-width="2"/>
+  <text x="1136" y="339" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">0<tspan fill="#666" font-weight="400"> / </tspan><tspan fill="#9a9a9a">1</tspan></text>
+  <text x="64" y="391" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">Directus</text>
+  <rect x="315" y="373" width="77.88888888888889" height="22" fill="none" stroke="#fff" stroke-width="2"/>
+  <text x="1136" y="391" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">0<tspan fill="#666" font-weight="400"> / </tspan><tspan fill="#9a9a9a">1</tspan></text>
+  <text x="64" y="443" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">Infisical</text>
+  <rect x="315" y="425" width="77.88888888888889" height="22" fill="none" stroke="#fff" stroke-width="2"/>
+  <text x="1136" y="443" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">0<tspan fill="#666" font-weight="400"> / </tspan><tspan fill="#9a9a9a">1</tspan></text>
+  <text x="64" y="495" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">OpenMeter</text>
+  <rect x="315" y="477" width="77.88888888888889" height="22" fill="none" stroke="#fff" stroke-width="2"/>
+  <text x="1136" y="495" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">0<tspan fill="#666" font-weight="400"> / </tspan><tspan fill="#9a9a9a">1</tspan></text>
+  <text x="64" y="547" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">OpenSpec</text>
+  <rect x="315" y="529" width="77.88888888888889" height="22" fill="none" stroke="#fff" stroke-width="2"/>
+  <text x="1136" y="547" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">0<tspan fill="#666" font-weight="400"> / </tspan><tspan fill="#9a9a9a">1</tspan></text>
+  <text x="64" y="599" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">Payload</text>
+  <rect x="315" y="581" width="77.88888888888889" height="22" fill="none" stroke="#fff" stroke-width="2"/>
+  <text x="1136" y="599" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">0<tspan fill="#666" font-weight="400"> / </tspan><tspan fill="#9a9a9a">1</tspan></text>
+</svg>
