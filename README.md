@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Vardhman Bengani" width="100%">
+<img src="banner.svg" alt="flcrom" width="100%">
 
 <img src="assets/stats.svg" alt="open source pull requests" width="100%">
 
