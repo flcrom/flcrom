@@ -1,5 +1,5 @@
 // Update the profile's merged upstream PR count and per-project chart.
-// The workflow runs hourly and can also be started manually.
+// The workflow runs on the repository schedule and can also be started manually.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const USER = process.env.PROFILE_USER ?? "flcrom";
