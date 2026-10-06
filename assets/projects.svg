@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="624" viewBox="0 0 1200 624" role="img" aria-label="merged upstream pull requests per project">
-  <rect width="1200" height="624" fill="#000"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="676" viewBox="0 0 1200 676" role="img" aria-label="merged upstream pull requests per project">
+  <rect width="1200" height="676" fill="#000"/>
   <text x="64" y="61" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#aaa">merged by project</text>
   <text x="64" y="131" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">Reflex</text>
   <rect x="314" y="112" width="720" height="24" fill="#fff"/>
@@ -28,4 +28,7 @@
   <text x="64" y="547" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">OpenSpec</text>
   <rect x="314" y="528" width="80" height="24" fill="#fff"/>
   <text x="1136" y="547" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">1</text>
+  <text x="64" y="599" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">rivercla</text>
+  <rect x="314" y="580" width="80" height="24" fill="#fff"/>
+  <text x="1136" y="599" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">1</text>
 </svg>
