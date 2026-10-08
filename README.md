@@ -1,3 +1,5 @@
+<img src="assets/47-logo.png" alt="47" width="160">
+
 [![47 strokes](https://47strokes.flcrom.dev/canvas.svg)](https://47strokes.flcrom.dev/)
 
 [leave one stroke](https://47strokes.flcrom.dev/)
