@@ -3,38 +3,38 @@
   <text x="64" y="61" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#aaa">merged by project</text>
   <text x="64" y="131" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">Reflex</text>
   <rect x="314" y="112" width="720" height="24" fill="#fff"/>
-  <text x="1136" y="131" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">9</text>
+  <text x="1136" y="131" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">10</text>
   <text x="64" y="183" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">Apache Superset</text>
-  <rect x="314" y="164" width="160" height="24" fill="#fff"/>
+  <rect x="314" y="164" width="144" height="24" fill="#fff"/>
   <text x="1136" y="183" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">2</text>
   <text x="64" y="235" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">PostHog</text>
-  <rect x="314" y="216" width="160" height="24" fill="#fff"/>
+  <rect x="314" y="216" width="144" height="24" fill="#fff"/>
   <text x="1136" y="235" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">2</text>
   <text x="64" y="287" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">superset.sh</text>
-  <rect x="314" y="268" width="160" height="24" fill="#fff"/>
+  <rect x="314" y="268" width="144" height="24" fill="#fff"/>
   <text x="1136" y="287" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">2</text>
   <text x="64" y="339" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">cli</text>
-  <rect x="314" y="320" width="80" height="24" fill="#fff"/>
+  <rect x="314" y="320" width="72" height="24" fill="#fff"/>
   <text x="1136" y="339" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">1</text>
   <text x="64" y="391" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">js-core</text>
-  <rect x="314" y="372" width="80" height="24" fill="#fff"/>
+  <rect x="314" y="372" width="72" height="24" fill="#fff"/>
   <text x="1136" y="391" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">1</text>
   <text x="64" y="443" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">koanf</text>
-  <rect x="314" y="424" width="80" height="24" fill="#fff"/>
+  <rect x="314" y="424" width="72" height="24" fill="#fff"/>
   <text x="1136" y="443" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">1</text>
   <text x="64" y="495" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">mastra</text>
-  <rect x="314" y="476" width="80" height="24" fill="#fff"/>
+  <rect x="314" y="476" width="72" height="24" fill="#fff"/>
   <text x="1136" y="495" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">1</text>
   <text x="64" y="547" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">nuza</text>
-  <rect x="314" y="528" width="80" height="24" fill="#fff"/>
+  <rect x="314" y="528" width="72" height="24" fill="#fff"/>
   <text x="1136" y="547" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">1</text>
   <text x="64" y="599" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">OpenSpec</text>
-  <rect x="314" y="580" width="80" height="24" fill="#fff"/>
+  <rect x="314" y="580" width="72" height="24" fill="#fff"/>
   <text x="1136" y="599" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">1</text>
   <text x="64" y="651" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">resend-go</text>
-  <rect x="314" y="632" width="80" height="24" fill="#fff"/>
+  <rect x="314" y="632" width="72" height="24" fill="#fff"/>
   <text x="1136" y="651" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">1</text>
   <text x="64" y="703" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">rivercla</text>
-  <rect x="314" y="684" width="80" height="24" fill="#fff"/>
+  <rect x="314" y="684" width="72" height="24" fill="#fff"/>
   <text x="1136" y="703" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">1</text>
 </svg>
