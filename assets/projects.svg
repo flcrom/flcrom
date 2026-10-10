@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780" role="img" aria-label="merged upstream pull requests per project">
-  <rect width="1200" height="780" fill="#000"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="832" viewBox="0 0 1200 832" role="img" aria-label="merged upstream pull requests per project">
+  <rect width="1200" height="832" fill="#000"/>
   <text x="64" y="61" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#aaa">merged by project</text>
   <text x="64" y="131" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">Reflex</text>
   <rect x="314" y="112" width="720" height="24" fill="#fff"/>
@@ -34,7 +34,10 @@
   <text x="64" y="651" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">resend-go</text>
   <rect x="314" y="632" width="72" height="24" fill="#fff"/>
   <text x="1136" y="651" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">1</text>
-  <text x="64" y="703" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">rivercla</text>
+  <text x="64" y="703" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">river</text>
   <rect x="314" y="684" width="72" height="24" fill="#fff"/>
   <text x="1136" y="703" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">1</text>
+  <text x="64" y="755" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">rivercla</text>
+  <rect x="314" y="736" width="72" height="24" fill="#fff"/>
+  <text x="1136" y="755" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">1</text>
 </svg>
