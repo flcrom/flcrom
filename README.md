@@ -1,4 +1,4 @@
-<img src="assets/47-logo.png" alt="47" width="160">
+<img src="assets/logo.png" alt="47" width="160">
 
 [![47 strokes](https://47strokes.flcrom.dev/canvas.svg)](https://47strokes.flcrom.dev/)
 
