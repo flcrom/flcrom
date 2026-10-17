@@ -1,10 +1,1 @@
-<img src="assets/logo.png" alt="47" width="160">
-
-[![47 strokes](https://47strokes.flcrom.dev/canvas.svg)](https://47strokes.flcrom.dev/)
-
-[leave one stroke](https://47strokes.flcrom.dev/)
-
-<a href="https://x.com/flcrom"><img src="assets/x.svg" alt="X @flcrom" width="40"></a>&nbsp;
-<a href="https://www.linkedin.com/in/47th"><img src="assets/linkedin.svg" alt="LinkedIn /in/47th" width="40"></a>&nbsp;
-<a href="https://monkeytype.com/profile/0x47"><img src="assets/monkeytype.svg" alt="Monkeytype 0x47" width="40"></a>
-
+<p><a href="https://47strokes.flcrom.dev/"><img src="https://47strokes.flcrom.dev/readme/0.svg" width="2.7083%" alt="47 strokes"></a><a href="https://flcrom.dev"><img src="https://47strokes.flcrom.dev/readme/1.svg" width="5.8333%" alt="flcrom.dev"></a><a href="https://x.com/flcrom"><img src="https://47strokes.flcrom.dev/readme/2.svg" width="5.8333%" alt="X @flcrom"></a><a href="https://www.linkedin.com/in/47th"><img src="https://47strokes.flcrom.dev/readme/3.svg" width="5.8333%" alt="LinkedIn /in/47th"></a><a href="https://monkeytype.com/profile/0x47"><img src="https://47strokes.flcrom.dev/readme/4.svg" width="5.8333%" alt="Monkeytype 0x47"></a><a href="https://47strokes.flcrom.dev/"><img src="https://47strokes.flcrom.dev/readme/5.svg" width="66.6667%" alt="47 strokes canvas"></a><a href="https://47strokes.flcrom.dev/"><img src="https://47strokes.flcrom.dev/readme/6.svg" width="7.2917%" alt="Leave one stroke"></a></p>
